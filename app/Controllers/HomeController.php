@@ -19,7 +19,7 @@ class HomeController
 	public function  mail(){
 		$mail = request('mail');
 
-		$data =  Command::runSudo('sh /liman/monitoring/monitoring.sh');
+		$data =  Command::runSudo('sh /liman/extensions/mailsender/monitoring/monitoring.sh');
 
 //        $res = Mail::to($mail)->send($data);
 

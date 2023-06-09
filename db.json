@@ -1,0 +1,19 @@
+{
+    "name": "MailSender",
+    "publisher": "Administrator",
+    "version": "0.0.1",
+    "version_code": 2,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "1.11",
+    "support": "administrator@liman.dev",
+    "icon": "\ud83d\udce9",
+    "display_name": "Mailsender",
+    "require_key": "false",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null
+}
